@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Header from './Header';
 import Books from './Books';
-import PesquisarLivro from './PesquisarLivro'
 import firebase from "firebase"
 import StyledFirebase from "react-firebaseui/StyledFirebaseAuth"
 import './App.css';
